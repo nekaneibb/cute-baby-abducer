@@ -1,1 +1,3 @@
-# project01_cute baby-abducter
+# cute baby-abducter
+
+First project made with JS
